@@ -1,0 +1,1 @@
+Pastikan anda memiliki npm Download source code Buka folder client_labs Jalankan proyek pada cmd : npm run dev Buka aplikasi di browser sesuai port masing masing (dalam kasus saya : http://localhost:8080/)
