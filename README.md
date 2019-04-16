@@ -1,3 +1,4 @@
+- Saya menggunakan Vue-cli
 - Pastikan anda memiliki npm 
 - Download source code
 - Jalankan proyek pada cmd : npm run dev 
